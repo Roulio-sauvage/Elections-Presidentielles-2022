@@ -1,0 +1,156 @@
+/* TEMPLATES*/
+
+#p_template_title {
+    color: #2540BE;
+    letter-spacing: 5px;
+    text-decoration: underline #e4087e;
+    text-align: center;
+    font-size: 50px;
+}
+
+#p_template_subtitle {
+    color: #006600;
+    position: absolute;
+    text-align: center  ;
+    font-style: italic;
+    font-style: 15px;
+    right: 20px;
+    left: 20px;
+}
+
+#p_template_sourceetcontact {
+    font-size: 15px;
+    position: absolute;
+    bottom: 10px;
+    right: 30px;  
+}
+
+body {
+    background: url('fond_blanc_haut.jpg');
+    background-repeat: repeat-x;
+}
+
+
+
+/* PARAGRAPHES */
+
+#p1 {
+    position: absolute;
+    left : 200px;
+    top : 275px;
+    right : 200px;
+    text-align : justify
+}
+
+#p2 {
+    position: absolute;
+    left : 200px;
+    top : 525px;
+    font-style : italic
+}
+
+#p3 {
+    position : absolute;
+    bottom : 80px;
+    right : 200px
+}
+
+
+
+/* BOUTONS */
+
+#b13_1 {
+    position: absolute;
+    left : 200px;
+    top : 325px
+}
+
+#b13_2 {
+    position: absolute;
+    left : 500px;
+    top : 325px
+}
+
+#b13_3 {
+    position: absolute;
+    left : 800px;
+    top : 325px
+}
+
+#b13_4 {
+    position: absolute;
+    left : 1100px;
+    top : 325px
+}
+
+#b13_5 {
+    position: absolute;
+    left : 200px;
+    top : 375px
+}
+
+#b13_6 {
+    position: absolute;
+    left : 500px;
+    top : 375px
+}
+
+#b13_7 {
+    position: absolute;
+    left : 800px;
+    top : 375px
+}
+
+#b13_8 {
+    position: absolute;
+    left : 1100px;
+    top : 375px
+}
+
+#b13_9 {
+    position: absolute;
+    left : 200px;
+    top : 425px
+}
+
+#b13_10 {
+    position: absolute;
+    left : 500px;
+    top : 425px
+}
+
+#b13_11 {
+    position: absolute;
+    left : 800px;
+    top : 425px
+}
+
+#b13_12 {
+    position: absolute;
+    left : 1100px;
+    top : 425px
+}
+
+#b13t {
+    position: absolute;
+    left : 200px;
+    top : 470px
+}
+
+#b1 {
+    position: absolute;
+    bottom : 95px;
+    right : 350px
+}
+
+#b2 {
+    position: absolute;
+    bottom : 95px;
+    right : 500px
+}
+
+#b3 {
+    position: absolute;
+    bottom : 95px;
+    right : 550px
+}
